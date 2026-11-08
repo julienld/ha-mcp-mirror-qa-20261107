@@ -1,1 +1,5 @@
-{"repository": "julienld/ha-mcp-release-qa-20261107", "tag": "v9.1.5"}
+{
+  "repository": "julienld/ha-mcp-release-qa-20261107",
+  "tag": "v9.1.5",
+  "digest": "sha256:dcf7c1cc56e999115f48026ea13253abb172021fcb8a228cdf3aeb1a06fcd727"
+}
