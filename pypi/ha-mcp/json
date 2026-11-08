@@ -1,29 +1,29 @@
 {
   "info": {
     "name": "ha-mcp",
-    "version": "9.1.3",
+    "version": "9.1.4",
     "requires_python": ">=3.13, <3.15"
   },
   "urls": [
     {
-      "filename": "ha_mcp-9.1.3-py3-none-any.whl",
-      "url": "https://julienld.github.io/ha-mcp-mirror-qa-20261107/packages/ha_mcp-9.1.3-py3-none-any.whl",
+      "filename": "ha_mcp-9.1.4-py3-none-any.whl",
+      "url": "https://julienld.github.io/ha-mcp-mirror-qa-20261107/packages/ha_mcp-9.1.4-py3-none-any.whl",
       "packagetype": "bdist_wheel",
       "requires_python": ">=3.13, <3.15",
       "size": 4084246,
       "digests": {
-        "sha256": "9dbf44c3f003f6e666feff9369d274bdf24278f120044f7dd57af4b63c2a94e3"
+        "sha256": "b74663d36505342a4fc15a30b10a11c37a50125ac4901b731ab9506317166fed"
       },
       "yanked": false
     },
     {
-      "filename": "ha_mcp-9.1.3.tar.gz",
-      "url": "https://julienld.github.io/ha-mcp-mirror-qa-20261107/packages/ha_mcp-9.1.3.tar.gz",
+      "filename": "ha_mcp-9.1.4.tar.gz",
+      "url": "https://julienld.github.io/ha-mcp-mirror-qa-20261107/packages/ha_mcp-9.1.4.tar.gz",
       "packagetype": "sdist",
       "requires_python": ">=3.13, <3.15",
-      "size": 3635734,
+      "size": 3635601,
       "digests": {
-        "sha256": "4d6b324d695c0d2d015b87b9167c31565ec8989c018cb20b8341ad91ab5b0a6e"
+        "sha256": "382a1b8aae9a6fe84ad30c4b861aaad551304b391af5eb8a630eb2a41a5a407a"
       },
       "yanked": false
     }
@@ -73,6 +73,30 @@
         "size": 3635734,
         "digests": {
           "sha256": "4d6b324d695c0d2d015b87b9167c31565ec8989c018cb20b8341ad91ab5b0a6e"
+        },
+        "yanked": false
+      }
+    ],
+    "9.1.4": [
+      {
+        "filename": "ha_mcp-9.1.4-py3-none-any.whl",
+        "url": "https://julienld.github.io/ha-mcp-mirror-qa-20261107/packages/ha_mcp-9.1.4-py3-none-any.whl",
+        "packagetype": "bdist_wheel",
+        "requires_python": ">=3.13, <3.15",
+        "size": 4084246,
+        "digests": {
+          "sha256": "b74663d36505342a4fc15a30b10a11c37a50125ac4901b731ab9506317166fed"
+        },
+        "yanked": false
+      },
+      {
+        "filename": "ha_mcp-9.1.4.tar.gz",
+        "url": "https://julienld.github.io/ha-mcp-mirror-qa-20261107/packages/ha_mcp-9.1.4.tar.gz",
+        "packagetype": "sdist",
+        "requires_python": ">=3.13, <3.15",
+        "size": 3635601,
+        "digests": {
+          "sha256": "382a1b8aae9a6fe84ad30c4b861aaad551304b391af5eb8a630eb2a41a5a407a"
         },
         "yanked": false
       }
